@@ -176,7 +176,7 @@ ol {
   block-size: 15px;
   background-color: #fff;
   display: block;
-  position: absolute;
+ /* position: absolute;*/
   inset: 1px;
 }
 
