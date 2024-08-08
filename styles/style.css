@@ -167,7 +167,7 @@ ol {
   inline-size: 19px;
   border: 1px solid #FFFFFF;
   cursor: pointer;
-  position: relative;
+ 
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
@@ -176,9 +176,9 @@ ol {
   block-size: 15px;
   background-color: #fff;
   display: block;
-  inset: 1px;
-  position:absolute;
+  margin: 1px;
 }
+ 
 
 .button {
   cursor: pointer;
