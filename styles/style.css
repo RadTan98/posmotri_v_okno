@@ -177,6 +177,7 @@ ol {
   background-color: #fff;
   display: block;
   inset: 1px;
+  position:absolute;
 }
 
 .button {
